@@ -1,3 +1,1 @@
-javascript:
-	console.log("github");
-void(0);
+console.log("github");
