@@ -1,1 +1,1 @@
-console.log("github");
+function(){console.log("github");}();
